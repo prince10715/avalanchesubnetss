@@ -1,12 +1,6 @@
 DeFi Kingdom Clone on Avalanche EVM Subnet
 This project demonstrates how to set up and deploy a DeFi Kingdom clone on a custom EVM subnet within the Avalanche network. You will learn to create your own decentralized game featuring native currency, smart contracts for battling, exploring, and trading, all integrated with Metamask.
 
-
-Your project description looks well-organized! Here's a slightly revised version with enhanced clarity and flow, especially for step-by-step instructions:
-
-DeFi Kingdom Clone on Avalanche EVM Subnet
-This project demonstrates how to set up and deploy a DeFi Kingdom clone on a custom EVM subnet within the Avalanche network. You will learn to create your own decentralized game featuring native currency, smart contracts for battling, exploring, and trading, all integrated with Metamask.
-
 Prerequisites
 Metamask browser extension
 Avalanche CLI
@@ -160,7 +154,7 @@ contract Vault {
         token.transfer(msg.sender, amount);
     }
 }
-Your project description looks well-organized! Here's a slightly revised version with enhanced clarity and flow, especially for step-by-step instructions:
+
 
 DeFi Kingdom Clone on Avalanche EVM Subnet
 This project demonstrates how to set up and deploy a DeFi Kingdom clone on a custom EVM subnet within the Avalanche network. You will learn to create your own decentralized game featuring native currency, smart contracts for battling, exploring, and trading, all integrated with Metamask.
@@ -183,15 +177,11 @@ Follow the steps in our guide to correctly configure Metamask for your subnet.
 a. ERC20 Token Contract
 Deploy an ERC20 token contract using Solidity. Below is a basic implementation to get you started:
 
-solidity
-Copy code
-// Insert sample ERC20 token contract code here
+
 b. Vault Contract
 Deploy a Vault contract that handles in-game deposits and withdrawals:
 
-solidity
-Copy code
-// Insert sample Vault contract code here
+
 License
 This project is licensed under the MIT License. See the LICENSE file for further details.
 #author 
